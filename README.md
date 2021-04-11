@@ -14,3 +14,5 @@ Also, after training on the pre-trained model (which I selected as VGG19, model2
 The performance was very much comparable of both the networks gettin a validation accuracy in excess of 99 % in both the cases. Since MNIST is a very simple dataset not having complex patterns to recognize, this is understandable.
 
 Coming to the **Part-3** wherein another dataset was given but here, the dataset was very complicated. The dataset given is not well understood. Since the parent folder has subfolders labelled as 0 to 9 for the respective classes, but the images inside the subfolders have random images of any digit from 0-9 (6000 approx in every subfolder), it is impossible to train the dataset with wrong labels. https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip?dl=0
+
+(The model checkpoints for VGG19 pre-trained network are uploaded to drive. Link:https://drive.google.com/file/d/1grLTdxnLnBLOsiv8cC_JdwcuOG1Q2sLg/view?usp=sharing 
