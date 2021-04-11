@@ -1,0 +1,4 @@
+Requirements:
+
+All the requirements are already satisfied as the code is on Google Colab. The standard libraries and packages are already installed.
+Runtime must be set on GPU.
