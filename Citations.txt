@@ -1,0 +1,9 @@
+Citations:
+1)https://www.kaggle.com/muerbingsha/mnist-vgg19
+2)https://towardsdatascience.com/transfer-learning-and-image-classification-using-keras-on-kaggle-kernels-c76d3b030649
+3)https://keras.io/api/applications/vgg/#vgg19-function
+4)https://openaccess.thecvf.com/content_CVPR_2019/papers/Kumawat_LP-3DCNN_Unveiling_Local_Phase_in_3D_Convolutional_Neural_Networks_CVPR_2019_paper.pdf
+5)https://arxiv.org/pdf/1702.05373.pdf
+6)https://medium.com/@mrkardostamas/emnist-handwritten-character-recognition-with-deep-learning-b5d61ac1aab7
+7)https://medium.com/@siyao_sui/emnist-classification-with-convolutional-neural-network-5f0da8eed3c4#:~:text=As%20the%20MNIST%20becomes%20the,99%25)%20with%20simple%20algorithms.&text=EMNIST%20also%20resized%20and%20reshaped,bring%20more%20challenge%20in%20learning.
+8)https://cs230.stanford.edu/files_winter_2018/projects/6910235.pdf
